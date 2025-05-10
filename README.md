@@ -72,4 +72,4 @@ API 문서는 다음 주소에서 확인할 수 있습니다:
 - `requirements.txt`: 프로젝트 의존성 패키지 목록
 - `.env`: 환경 변수 설정 파일 (이 파일을 생성하고 환경 변수를 추가하세요)
 - `docker-compose.yml`: Docker 서비스 설정 파일
-- `Dockerfile`: Docker 이미지 빌드 설정 파일 
+- `Dockerfile`: Docker 이미지 빌드 설정 파일
